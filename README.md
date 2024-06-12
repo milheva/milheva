@@ -56,5 +56,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=600 src="https://readme-streak-stats-salesp07.vercel.app?user=milheva&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&fire=EB4611" alt="streak stats"/>
+  <img width=600 src="https://github-readme-streak-stats-salesp07.vercel.app?user=milheva&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&fire=EB4611" alt="streak stats"/>
 </div>
