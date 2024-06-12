@@ -38,8 +38,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html, css, bootstrap, js, react, nodejs, express, php, laravel, mongodb" />
-    <img src="https://skillicons.dev/icons?i=kotlin, java, xml, selenium, junit, postman, k6" />
-    <img src="https://skillicons.dev/icons?i=figma, firebase, git, vercel, netlify, docker" /><br>
 </div>
 
 <br/>
