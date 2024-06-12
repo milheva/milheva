@@ -58,3 +58,9 @@
 <div align=center>
   <img width=600 src="https://github-readme-streak-stats-salesp07.vercel.app?user=milheva&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&fire=EB4611" alt="streak stats"/>
 </div>
+
+<p align="center">
+   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&redirect=true">
+      <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31u2aussu6bmb63igjp7j2vnqkce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+   </a>
+</p>
