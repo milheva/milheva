@@ -56,5 +56,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=600 src="https://milheva-readme-streak-stats.vercel.app?user=milheva&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&fire=EB4D11" alt="streak stats"/>
+  <img width=600 src="https://milheva-readme-streak-stats.vercel.app/demo/?user=milheva&theme=tokyonight&hide_border=false&border_radius=20&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=gradient&properties=background&fire=%23EB4D11" alt="streak stats"/>
 </div>
