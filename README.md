@@ -56,5 +56,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=600 src="https://milheva-readme-streak-stats.vercel.app/?user=milheva&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=600 src="https://milheva-readme-streak-stats.vercel.app?user=milheva" alt="streak stats"/>
 </div>
