@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Website Development**
 
-💬 Ask me about **interesting stuff or anything [here](https://github.com/milheva/milheva/issues)**
+💬 Ask me about **interesting stuff or anything [here](https://instagram.com/wayzzn)**
 
 ⚡ Fun fact **I've ever been Top Global on Mobile Legends 😎**
 
