@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently organizing on **GDSC UPN Veteran Jawa Timur**
+ 🔭 I’m currently organizing on <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur-surabaya-indonesia>"**GDSC UPN Veteran Jawa Timur**</a>
  
  🌱 I’m currently learning **Website Development**
 
@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,adonis,react,nodejs,express,php,laravel,mysql,mongodb,nestjs,kotlin,java,selenium,postman,gcp,figma,firebase,git,vercel,netlify,docker&perline=8" />
