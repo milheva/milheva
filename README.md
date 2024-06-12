@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently organizing on <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur-surabaya-indonesia>"**GDSC UPN Veteran Jawa Timur**</a>
+ 🔭 I’m currently organizing on <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur-surabaya-indonesia">**GDSC UPN Veteran Jawa Timur**</a>
  
  🌱 I’m currently learning **Website Development**
 
