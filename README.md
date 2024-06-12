@@ -53,8 +53,6 @@
 
 <hr/>
 
-<hr/>
-
 <h2 align="center">🎧 Currently Hear 🎧</h2>
 <br>
 <p align="center">
