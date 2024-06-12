@@ -39,6 +39,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,adonis,react,nodejs,express,php,laravel,mysql,mongodb,nestjs,kotlin,java,selenium,postman,gcp,figma,firebase,git,vercel,netlify,docker&perline=8" />
     <br>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
 <br/>
