@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Watchout for Snake! 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/milheva/milheva/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
