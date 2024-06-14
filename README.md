@@ -45,14 +45,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=600 src="https://github-readme-streak-stats-salesp07.vercel.app?user=milheva&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&fire=EB4611" alt="streak stats"/>
-</div>
-
-<hr/>
-
 <h2 align="center">🎧 Currently Hear 🎧</h2>
 <br>
 <p align="center">
@@ -60,6 +52,14 @@
       <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31r2x5kqx4tcfk6mxvtawpckbf2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
    </a>
 </p>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=600 src="https://github-readme-streak-stats-salesp07.vercel.app?user=milheva&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&fire=EB4611" alt="streak stats"/>
+</div>
 
 <hr/>
 
