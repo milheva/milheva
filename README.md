@@ -50,8 +50,8 @@
 <h2 align="center">🎧 Currently Hear 🎧</h2>
 <br>
 <p align="center">
-   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31r2x5kqx4tcfk6mxvtawpckbf2y&redirect=true">
-      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31r2x5kqx4tcfk6mxvtawpckbf2y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r2x5kqx4tcfk6mxvtawpckbf2y&redirect=true">
+      <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r2x5kqx4tcfk6mxvtawpckbf2y&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
    </a>
 </p>
 
