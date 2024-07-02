@@ -1,4 +1,6 @@
-<img align="center" src="https://i.pinimg.com/564x/a6/61/74/a66174d1fa0db9149aa4e84f4e6418c8.jpg" alt="anime art">
+<div align="center">
+<img src="https://i.pinimg.com/564x/a6/61/74/a66174d1fa0db9149aa4e84f4e6418c8.jpg" alt="anime art">
+</div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=milheva.milheva" />
 
