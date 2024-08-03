@@ -16,7 +16,7 @@
  
  🔭 I’m currently organizing on <a href="https://gdsc.community.dev/universitas-pembangunan-nasional-veteran-jawa-timur-surabaya-indonesia">**GDSC UPN Veteran Jawa Timur**</a>
  
- 🌱 I’m currently learning **Website Development**
+ 🌱 I’m currently learning **Back End Development**
 
 ⚡ Fun fact **I've ever been Top Global on Mobile Legends 😎**
 
