@@ -1,17 +1,28 @@
 <p align="center">
 MEOW MEOW MEOW MEOW
 
-MEOW MEOW MEOW MEOW MEOW
-MEOW MEOW MEOW MEOW
+
 MEOW MEOW MEOW MEOW MEOW
 
+MEOW MEOW MEOW MEOW
+
+MEOW MEOW MEOW MEOW MEOW
+
+
 MEOW MEOW MEOW MEOW… MEOW
+
 MEOW MEOW MEOW MEOW… MEOW
+
 …
+
 …
+
 …
+
 MEEE… Eerr, that fyp song’s been living rent-free in my head.
+
 I’m hypmeowtized xD
+
 Btw, I'm currently learn JavaScript~
 </p>
 
