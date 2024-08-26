@@ -1,27 +1,25 @@
 <p align="center">
-MEOW MEOW MEOW MEOW
+MEOW MEOW MEOW MEOW<br><br>
 
+MEOW MEOW MEOW MEOW MEOW<br><br>
 
-MEOW MEOW MEOW MEOW MEOW
+MEOW MEOW MEOW MEOW<br><br>
 
-MEOW MEOW MEOW MEOW
+MEOW MEOW MEOW MEOW MEOW<br><br>
 
-MEOW MEOW MEOW MEOW MEOW
+MEOW MEOW MEOW MEOW… MEOW<br><br>
 
+MEOW MEOW MEOW MEOW… MEOW<br><br>
 
-MEOW MEOW MEOW MEOW… MEOW
+…<br><br>
 
-MEOW MEOW MEOW MEOW… MEOW
+…<br><br>
 
-…
+…<br><br>
 
-…
+MEEE… Eerr, that fyp song’s been living rent-free in my head.<br><br>
 
-…
-
-MEEE… Eerr, that fyp song’s been living rent-free in my head.
-
-I’m hypmeowtized xD
+I’m hypmeowtized xD<br><br>
 
 Btw, I'm currently learn JavaScript~
 </p>
