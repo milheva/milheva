@@ -10,7 +10,7 @@ MEOW MEOW MEOW MEOW… MEOW<br>
 …<br>
 MEEE… Eerr, that fyp song’s been living rent-free in my head.<br>
 I’m hypmeowtized xD<br>
-Btw, I'm currently learn JavaScript~<br><br>
+Btw, I'm currently learn GoLang~<br><br>
 Bonmeowjour.
 </p>
 
